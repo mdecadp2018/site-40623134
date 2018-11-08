@@ -24,38 +24,33 @@
 <v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11"><vh>每周紀錄</vh>
-<v t="leo.20180827201621.12"><vh>我是分支1</vh>
+<v t="leo.20180827201621.11" a="E"><vh>每周紀錄</vh>
+<v t="leo.20180827201621.12" a="E"><vh>我是分支1</vh>
 <v t="leo.20181026101720.1"><vh>Week1</vh></v>
 </v>
 </v>
-<v t="leo.20181026104128.1"><vh>每周紀錄2</vh>
-<v t="leo.20181026102421.1"><vh>我是分支2</vh>
+<v t="leo.20181026104128.1" a="E"><vh>每周紀錄2</vh>
+<v t="leo.20181026102421.1" a="E"><vh>我是分支2</vh>
 <v t="leo.20181026102508.1"><vh>week2</vh></v>
 </v>
 </v>
-<v t="leo.20181026104222.1"><vh>每周紀錄3</vh>
+<v t="leo.20181026104222.1" a="E"><vh>每周紀錄3</vh>
 <v t="leo.20181026104222.2" a="E"><vh>我是分支3</vh>
 <v t="leo.20181026104222.3"><vh>week3</vh></v>
 </v>
 </v>
-<v t="leo.20181026104246.1"><vh>每周紀錄4</vh>
-<v t="leo.20181026104246.2"><vh>我是分支4</vh>
+<v t="leo.20181026104246.1" a="E"><vh>每周紀錄4</vh>
+<v t="leo.20181026104246.2" a="E"><vh>我是分支4</vh>
 <v t="leo.20181026104246.3"><vh>week4</vh></v>
 </v>
 </v>
-<v t="leo.20181026104307.1"><vh>每周紀錄5</vh>
+<v t="leo.20181026104307.1" a="E"><vh>每周紀錄5</vh>
 <v t="leo.20181026104307.2" a="E"><vh>我是分支5</vh>
 <v t="leo.20181026104307.3"><vh>week5</vh></v>
 </v>
 </v>
-<v t="leo.20181026104324.1"><vh>每周紀錄6</vh>
-<v t="leo.20181026104324.2"><vh>我是分支6</vh>
-<v t="leo.20181026104324.3"><vh>week6</vh></v>
-</v>
-</v>
-<v t="leo.20181026104401.1"><vh>每周紀錄7</vh>
-<v t="leo.20181026104401.2"><vh>我是分支7</vh>
+<v t="leo.20181026104401.1" a="E"><vh>每周紀錄7</vh>
+<v t="leo.20181026104401.2" a="E"><vh>我是分支7</vh>
 <v t="leo.20181026104401.3"><vh>week7</vh></v>
 </v>
 </v>
@@ -355,7 +350,8 @@ make.start()
 </t>
 <t tx="leo.20181026101720.1">#Week 1
 
-*
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45739912_915303685525389_3542464213714731008_n.jpg?_nc_cat=100&amp;_nc_eui2=AeFdegMuKA3b7mcFLB-MOopjIueyq_wBWP2sWBCb9YTfBmRM1dXeaH7smP0BqbCWNv5hO4cDCcK2Pz2GzyXo9nfoNFZmtwg3boX3SllR6pAzdQ&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=a811ab64bf5b4e27c2b1877e76d76d5f&amp;oe=5C3C597B)
+
 
 </t>
 <t tx="leo.20181026102421.1">&lt;section data-markdown&gt;
@@ -368,7 +364,7 @@ make.start()
 </t>
 <t tx="leo.20181026102508.1">#Week 2
 
-
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45632396_196478631288166_8852790623489490944_n.jpg?_nc_cat=100&amp;_nc_eui2=AeHLVdJqp8z7tciL-cNtW6tsKrdC9M0x0e-g4O2llCuQ9sVufLnVw8ktRmDbNIrAUWqkWL9tGvYlAA5uQknLh6mB21SoA1OTXhwfSRX6I4VpQA&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=4d16d7f07bf5752e49e6a35bfb8de526&amp;oe=5C85513E)
 
 
 
@@ -378,10 +374,14 @@ make.start()
 </t>
 <t tx="leo.20181026104128.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026104222.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026104222.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -392,7 +392,7 @@ make.start()
 </t>
 <t tx="leo.20181026104222.3">#Week 3
 
-
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45730610_278983312742818_764623686153011200_n.jpg?_nc_cat=104&amp;_nc_eui2=AeHvftCr-IqqZLuz8Y5dbwfmuTgLRV2FfrXa459-DiGQStV_-wSUxBvcZquZwtab26TKGFhEPiBnDmt92Alr9mgG4qzDMrJ9DXj_fW5PSTEebw&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=a974379a53fa6c23c6df954b55e91ade&amp;oe=5C43C33F)
 
 
 
@@ -402,7 +402,9 @@ make.start()
 </t>
 <t tx="leo.20181026104246.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026104246.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -413,7 +415,7 @@ make.start()
 </t>
 <t tx="leo.20181026104246.3">#Week 4
 
-
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45583898_741288509570153_6012871291466416128_n.jpg?_nc_cat=109&amp;_nc_eui2=AeEim8hELUPccG2R4wK4Mg7b3m-SgMgKCLiqNwdVC9mJnDnbjw90Ma637mPMNQ02mz_wjowEq3ze4UKjoFqgV2xqd3ipbJsX11jRR8378tJAnA&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=f6ec8233103b1d075f939c446259c536&amp;oe=5C7CD331)
 
 
 
@@ -423,7 +425,9 @@ make.start()
 </t>
 <t tx="leo.20181026104307.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026104307.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -434,28 +438,7 @@ make.start()
 </t>
 <t tx="leo.20181026104307.3">#Week 5
 
-
-
-
-
-
-
-
-</t>
-<t tx="leo.20181026104324.1">&lt;section&gt;
-@others
-&lt;/section&gt;</t>
-<t tx="leo.20181026104324.2">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-&lt;!-- 請注意, @others 不可以內縮 --&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-</t>
-<t tx="leo.20181026104324.3">#Week 6
-
-
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45577671_707586876276988_3302214278731268096_n.jpg?_nc_cat=100&amp;_nc_eui2=AeEORlOZyREU1ZBha4YnMipGAkqK2HVYFXn5CLmlli-6tJw-tFSFbbcrafdVlbMBx2YzThN7qOEAFHkQ-uWXHm5iA4MZD77sMGLF9335rtovyw&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=e19be34a0d7ce0b3f2bc48289f26220a&amp;oe=5C6F4DD9)
 
 
 
@@ -465,7 +448,9 @@ make.start()
 </t>
 <t tx="leo.20181026104401.1">&lt;section&gt;
 @others
-&lt;/section&gt;</t>
+&lt;/section&gt;
+
+</t>
 <t tx="leo.20181026104401.2">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -474,9 +459,10 @@ make.start()
 &lt;/section&gt;
 
 </t>
-<t tx="leo.20181026104401.3">#Week 7
+<t tx="leo.20181026104401.3">#Week 6-8
 
-
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45579986_314163715844364_1051107969120337920_n.jpg?_nc_cat=102&amp;_nc_eui2=AeHRl7vT0-JiNsMY4gJXwmOd5MNT8H5ndGQ50id1B8JEzh8Var8IN82wPpCV9WqKdkg1xtyWK1yizoarsv0E6aVoZMCZCuRXtcaLG3z2H12wsw&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=b63d6de65c4f08b467ee91a4d90051b4&amp;oe=5C7C0E51)
+![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45757586_193573414889310_5618074075097202688_n.jpg?_nc_cat=109&amp;_nc_eui2=AeE1XB97gUceHZSR2qMTkFJtfgtvJV_NCtNqCf5-2DgEl6NfllbtSoUnSPiUdo2seqSJw53gujrF8clC65LAhQTMvY-C5_6DzLr8aBJAcWs0kA&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=39a12abe8adce000e3c47cb38eb531d4&amp;oe=5C43BDDA)
 
 
 
