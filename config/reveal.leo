@@ -151,15 +151,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 網際簡報
+<t tx="leo.20180827201621.10">## 簡報
 
-### 虎科大機械設計工程系二年甲班紀冠瑋
+### 虎科大機械工程設計系二年甲班紀冠瑋
 
 &lt;small&gt;
-Created by [Tabihido](https://github.com/mdecadp2018/site-40623134)
+Created by [第五組_40623134_紀冠瑋](https://github.com/mdecadp2018/site-40623134)
 &lt;/small&gt;
 
-[2018 Fall 分組網誌](./../blog/index.html)
+[第五組網誌](https://github.com/mdekmol/cd2019a-task1-2019cda_t1_g5)
 
 
 </t>
@@ -348,9 +348,9 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026101720.1">#Week 1
+<t tx="leo.20181026101720.1"># 每周溝通
 
-![img](https://scontent.ftpe10-1.fna.fbcdn.net/v/t1.15752-9/45739912_915303685525389_3542464213714731008_n.jpg?_nc_cat=100&amp;_nc_eui2=AeFdegMuKA3b7mcFLB-MOopjIueyq_wBWP2sWBCb9YTfBmRM1dXeaH7smP0BqbCWNv5hO4cDCcK2Pz2GzyXo9nfoNFZmtwg3boX3SllR6pAzdQ&amp;_nc_ht=scontent.ftpe10-1.fna&amp;oh=a811ab64bf5b4e27c2b1877e76d76d5f&amp;oe=5C3C597B)
+&lt;img src="要插入的圖片 URL" alt="圖片替代文字" title="要顯示的文字" border="圖片邊框"&gt;
 
 
 </t>
