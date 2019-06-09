@@ -348,12 +348,14 @@ make.start()
 
 						
 </t>
-<t tx="leo.20181026101720.1"># 每周溝通
+<t tx="leo.20181026101720.1"># 每周筆記
 
-&lt;img src="要插入的圖片 URL" alt="圖片替代文字" title="要顯示的文字" border="圖片邊框"&gt;
-
-
-</t>
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/10%E5%91%A8.jpg"   width="230px" &gt;
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/11%E5%91%A8.jpg"   width="230px" &gt;
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/12%E5%91%A8.jpg"   width="230px" &gt;
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/13%E5%91%A8.jpg"   width="230px" &gt;
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/13%E5%91%A8.jpg"   width="230px" &gt;
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/14%E5%91%A8.jpg"   width="230px" &gt;</t>
 <t tx="leo.20181026102421.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
