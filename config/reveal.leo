@@ -355,7 +355,9 @@ make.start()
 &lt;img src="https://mdecadp2018.github.io/site-40623134/images/12%E5%91%A8.jpg"   width="230px" &gt;
 &lt;img src="https://mdecadp2018.github.io/site-40623134/images/13%E5%91%A8.jpg"   width="230px" &gt;
 &lt;img src="https://mdecadp2018.github.io/site-40623134/images/13%E5%91%A8-1.jpg"   width="230px" &gt;
-&lt;img src="https://mdecadp2018.github.io/site-40623134/images/14%E5%91%A8.jpg"   width="230px" &gt;</t>
+&lt;img src="https://mdecadp2018.github.io/site-40623134/images/14%E5%91%A8.jpg"   width="230px" &gt;
+
+</t>
 <t tx="leo.20181026102421.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -428,6 +430,7 @@ make.start()
 
 
 我從這門課學到領導者的責任與職責，要做好管理與分配可以經由開會與討論來決定，但確認各部份的進度和解決組員的問題需要領導人去想辦法掌握，組員之間也需要聯絡的管道，如果有突發狀況也能互相聯絡並解決問題，經由這次的經驗我的領導經驗提升了需多。
+自評:70分
 
 
 </t>
